@@ -1,0 +1,23 @@
+name: TheEducation
+favicon: null
+layout_spectrum: 0.3871197756379843
+typography_spectrum: 0.1682637829799205
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3500719745643437
+  lightness: 0.7372717477846891
+  saturation: 0.529713804135099
+  rhythmicContrast: 0.30889743263833225
+purpose: []
