@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheEducation]]></title>
+        <description><![CDATA[TheEducation]]></description>
+        <link>https://thegrid.ai/theeducation/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 Nov 2015 01:00:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theeducation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Canadian History</p>]]></description>
+            <link>https://thegrid.ai/theeducation/d482119d-13bd-4070-9842-ab0fd2b361c2/index.html</link>
+            <guid isPermaLink="false">d482119d-13bd-4070-9842-ab0fd2b361c2</guid>
+            <pubDate>Sun, 15 Nov 2015 01:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/theeducation/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">d08c9587-5fc8-49da-a69a-1ec177022e4a</guid>
+            <pubDate>Tue, 27 Oct 2015 01:08:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
